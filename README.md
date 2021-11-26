@@ -1,8 +1,8 @@
-(https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/53050798_142720023417956_3183967283542228992_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=19026a&_nc_ohc=smhsJB6-T5MAX8KNF1e&tn=U16LRqhIDodAXGxk&_nc_ht=scontent.fdac135-1.fna&oh=aa546aecfae58f007d433ff45fd97fc8&oe=61C607BC)
+![I am Learner](https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/53050798_142720023417956_3183967283542228992_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=19026a&_nc_ohc=smhsJB6-T5MAX8KNF1e&tn=U16LRqhIDodAXGxk&_nc_ht=scontent.fdac135-1.fna&oh=aa546aecfae58f007d433ff45fd97fc8&oe=61C607BC)
 
 ### Hi there 👋, My Name Is Asadulla Al Mamun
 #### I am Learner
-![I am Learner]
+
 
 I'm a learner. I want to learn about web development (MERN Stack). Currently, I am trying to learn web development.
 
