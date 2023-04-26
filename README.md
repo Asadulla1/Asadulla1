@@ -1,4 +1,4 @@
-<h3 align="center"> <h2 display="inline">Hi there 👋! My name is Asadulla Al Mamun </h2> and I am currently pursuing my studies in Computer Science and Engineering at the American International University-Bangladesh. I am really passionate about Software Engineering and Web Development and always eager to learn new things in these fields.
+<h3 align="center">Hi there 👋! <h2>My name is Asadulla Al Mamun </h2> and I am currently pursuing my studies in Computer Science and Engineering at the American International University-Bangladesh. I am really passionate about Software Engineering and Web Development and always eager to learn new things in these fields.
 
 I am a very dedicated and hardworking student, striving for excellence in my academic pursuits. I have a strong eye for detail and love solving complex problems. I am always looking for opportunities to expand my knowledge and skills and to apply them in practical settings.
 
