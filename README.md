@@ -1,7 +1,11 @@
 ![I am Learner](https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/53050798_142720023417956_3183967283542228992_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=19026a&_nc_ohc=smhsJB6-T5MAX8KNF1e&tn=U16LRqhIDodAXGxk&_nc_ht=scontent.fdac135-1.fna&oh=aa546aecfae58f007d433ff45fd97fc8&oe=61C607BC)
 
-<h1 align="center">Hi 👋, I'm Asadulla Al Mamun</h1>
-<h3 align="center">I'm a learner.</h3>
+
+<h3 align="center"> <h2 >Hi there 👋! My name is Asadulla Al Mamun </h2> and I am currently pursuing my studies in Computer Science and Engineering at the American International University-Bangladesh. I am really passionate about Software Engineering and Web Development and always eager to learn new things in these fields.
+
+I am a very dedicated and hardworking student, striving for excellence in my academic pursuits. I have a strong eye for detail and love solving complex problems. I am always looking for opportunities to expand my knowledge and skills and to apply them in practical settings.
+
+I believe that my dedication and commitment will take me far in the field of Computer Science and Engineering. I am excited to explore new avenues and contribute to the development of innovative solutions in these fields. Thank you for taking the time to learn a bit about me!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadulla1" alt="asadulla1" /></a> </p>
 
